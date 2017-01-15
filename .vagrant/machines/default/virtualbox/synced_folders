@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/naoki/vm/awp","disabled":false},"/var/www/html":{"owner":"apache","group":"apache","mount_options":["dmode=777","fmode=777"],"guestpath":"/var/www/html","hostpath":"/Users/naoki/vm/awp/data","disabled":false}}}
